@@ -1,0 +1,237 @@
+1. Toyota         Corolla     White  1999   1225000 
+2. Toyota         Corolla     Black  1999   1275000 
+3. Toyota         Corolla     Silver 1999   1250000 
+4. Toyota         Corolla     Gray   1999   1240000 
+5. Toyota         Corolla     Blue   1999   1285000 
+6. Toyota         Corolla     Red    1999   1300000 
+
+7. Toyota         Hilux       White   2005  1500000 
+8. Toyota         Hilux       Black   2005  1550000 
+9. Toyota         Hilux       Silver  2005  1525000 
+10. Toyota         Hilux      Gray   2005  1515000 
+11. Toyota        Hilux       Blue    2005  1560000 
+12. Toyota        Hilux       Red     2005  1600000 
+
+13. Toyota        Yaris       White   2010  1100000 
+14. Toyota        Yaris       Black   2010  1150000 
+15. Toyota        Yaris       Silver  2010  1125000 
+16. Toyota        Yaris       Gray    2010  1115000 
+17. Toyota        Yaris       Blue    2010  1160000 
+18. Toyota        Yaris       Red     2010  1200000 
+
+19. Toyota        LandCruiser White   2009  3500000 
+20. Toyota        LandCruiser Black   2009  3550000 
+21. Toyota        LandCruiser Silver  2009  3525000 
+22. Toyota        LandCruiser Gray    2009  3515000 
+23. Toyota        LandCruiser Blue    2009  3650000 
+24. Toyota        LandCruiser Red     2009  3650000 
+
+25. Toyota        Supra       Red     2000  60000
+
+26. Ford          Ranger      White   2015  1650000 
+27. Ford          Ranger      Black   2015  1700000
+28. Ford          Ranger      Silver  2015  1675000
+29. Ford          Ranger      Grey    2015  1665000
+30. Ford          Ranger      Blue    2015  1710000
+31. Ford          Ranger      Red     2015  1750000
+
+32. Ford          Everest     White   2020  2250000
+33. Ford          Everest     Black   2020  2300000
+34. Ford          Everest     Silver  2020  2275000
+35. Ford          Everest     Grey    2020  2265000
+36. Ford          Everest     Blue    2020  2310000
+37. Ford          Everest     Red     2020  2350000
+
+38. Ford          EcoSport    White   2018  1400000
+39. Ford          EcoSport    Black   2018  1450000
+40. Ford          EcoSport    Silver  2018  1425000
+41. Ford          EcoSport    Grey    2018  1415000
+42. Ford          EcoSport    Blue    2018  1460000
+43. Ford          EcoSport    Red     2018  1500000
+
+44. Ford          Fusion      White   2020  1500000
+45. Ford          Fusion      Black   2020  1550000
+46. Ford          Fusion      Silver  2020  1525000
+47. Ford          Fusion      Grey    2020  1515000
+48. Ford          Fusion      Blue    2020  1560000
+49. Ford          Fusion      Red     2020  1600000
+
+
+50.  Ford         Explorer    White   2011  40000
+51.  Ford         Explorer    Black   2011  43000
+52.  Ford         Explorer    Silver  2011  42500
+53.  Ford         Explorer    Gray    2011  42300
+54.  Ford         Explorer    Blue    2011  43200
+55. Ford          Explorer    Red     2011  45000
+
+56.  Lifan        X60         White   2002  22000
+57. Lifan         X60         Black   2002  23000
+58.  Lifan        X60         Silver  2002  22500
+59.  Lifan        X60         Gray    2002  22300
+60.  Lifan        X60         Blue    2002  23200
+61.  Lifan        X60         Red     2002  24000
+
+62.  Lifan        X50         White  2001 20000
+63.  Lifan        X50         Black  2001 21000
+64.  Lifan        X50         Silver 2001 20500
+65.  Lifan        X50         Gray   2001 20300
+66. Lifan         X50         Blue   2001 21200
+67. Lifan         X50         Red    2001 22000
+
+68.  Lifan        330         White 1997  18000
+69. Lifan         330         Black 1997  19000
+70. Lifan         330         Silver 1997 18500
+71. Lifan         330         Gray   1997 18300
+72.  Lifan        330         Blue   1997 19200
+73. Lifan         330         Red    1997 20000
+
+74.  Lifan        520         White  2000 25000
+75.  Lifan        520         Black  2000 26000
+76.  Lifan        520         Silver 2000 25500
+77.  Lifan        520         Gray   2000 25300
+78.  Lifan        520         Blue   2000 26200
+79. Lifan         520         Red    2000 27000
+
+80.  Nissan       Tilda       White  2020 22000
+81. Nissan        Tilda       Black  2020 23000
+82.  Nissan       Tilda       Silver 2020 22500
+83.  Nissan       Tilda       Gray   2020 22300
+84. Nissan        Tilda       Blue   2020 23200
+85. Nissan        Tilda       Red    2020 24000
+
+86.  Nissan       Navara      White  2022 32000
+87.  Nissan       Navara      Black  2022 33000
+88.  Nissan       Navara      Silver 2022 32500
+89.  Nissan       Navara      Gray   2022 32300
+90.  Nissan       Navara      Blue   2022 33200
+91. Nissan        Navara      Red    2022 34000
+
+92.  Nissan       Juke        White  2023 24000
+93. Nissan        Juke        Black  2023 25000
+94.  Nissan       Juke        Silver 2023 24500
+95.  Nissan       Juke        Gray   2023 24300
+96.  Nissan       Juke        Blue   2023 25200
+97. Nissan        Juke        Red    2023 26000
+
+98.  Nissan       Qashqai     White  2024 26000
+99.  Nissan       Qashqai     Black  2024 27000
+100.  Nissan      Qashqai     Silver 2024 26500
+101. Nissan       Qashqai     Gray   2024 26300
+102. Nissan       Qashqai     Blue   2024 27200
+103.  Nissan      Qashqai     Red    2024 28000
+
+104. Suzuki       Alto        White  2018 18000
+105.  Suzuki      Alto        Black  2018 19000
+106. Suzuki       Alto        Silver 2018 18500
+107. Suzuki       Alto        Gray   2018 18300
+108.  Suzuki      Alto        Blue   2018 19200
+109. Suzuki       Alto        Red    2018 20000
+
+110. Suzuki       Swift       White  2019 20000
+111.  Suzuki      Swift       Black  2019 21000
+112.  Suzuki      Swift       Silver 2019 20500
+113.  Suzuki      Swift       Gray   2019 20300
+114. Suzuki       Swift       Blue   2019 21200
+115. Suzuki       Swift       Red    2019 22000
+
+116.  Suzuki      Celerio     White  2003 16000
+117.  Suzuki      Celerio     Black  2003 17000
+118. Suzuki       Celerio     Silver 2003 16500
+119.  Suzuki      Celerio     Gray   2003 16300
+120.  Suzuki      Celerio     Blue   2003 17200
+121. Suzuki       Celerio     Red    2003 18000
+
+122.  Suzuki      Baleno      White  2023 22000
+123.  Suzuki      Baleno      Black  2023 23000
+124.  Suzuki      Baleno      Silver 2023 22500
+125.  Suzuki      Baleno      Gray   2023 22300
+126. Suzuki       Baleno      Blue   2023 23200
+127.  Suzuki      Baleno      Red    2023 24000
+
+128.  Suzuki      Vitara      White  2024 25300
+129.  Suzuki      Vitara      Black  2024 26300
+130.  Suzuki      Vitara      Silver 2024 25800
+131. Suzuki       Vitara      Gray   2024 25500
+132.  Suzuki      Vitara      Blue   2024 26400
+133. Suzuki       Vitara      Red    2024 27000
+
+134. Suzuki       SwiftSport  Red   2022 24000
+
+135.  BMW         X3          White  2020  45000
+136. BMW          X3          Black  2020  46000
+137.  BMW         X3          Silver 2020  45500
+138.  BMW         X3          Gray   2020  45300
+139. BMW          X3          Blue   2020  46200
+140. BMW          X3          Red    2020  47000
+
+141. BMW          X5          White  2022 60000
+142. BMW          X5          Black  2022 61000
+143. BMW          X5          Silver 2022 60500
+144. BMW          X5          Gray   2022 60300
+145. BMW          X5          Blue   2022 61200
+146. BMW          X5          Red    2022 62000
+
+147. BMW          X6          White  2023 70000
+148. BMW          X6          Black  2023 71000
+149. BMW          X6          Silver 2023 70500
+150. BMW          X6          Gray   2023 70300
+151. BMW          X6          Blue   2023 71200
+152. BMW          X6          Red    2023 72000
+
+153. Honda        Civic       White  2017 24000
+154. Honda        Civic       Black  2017 25000
+155. Honda        Civic       Silver 2017 24500
+156. Honda        Civic       Gray   2017 24300
+157. Honda        Civic       Blue   2017 25200
+158. Honda        Civic       Red    2017 25000
+
+159. Honda        Accord      White  2019 28000
+160. Honda        Accord      Black  2019 29000
+161. Honda        Accord      Silver 2019 28500
+162. Honda        Accord      Gray   2019 28300
+163. Honda        Accord      Blue   2019 29200
+164. Honda        Accord      Red    2019 29000
+
+165. Honda        CR-V        White  2021 32000
+166. Honda        CR-V        Black  2021 33000
+167. Honda        CR-V        Silver 2021 32500
+168. Honda        CR-V        Gray   2021 32300
+169. Honda        CR-V        Blue   2021 33200
+170.  Honda       CR-V        Red    2021 33000
+
+171.  Honda        Pilot      White  2022 36000
+172. Honda         Pilot      Black  2022 37000
+173. Honda         Pilot      Silver 2022 36500
+174. Honda         Pilot      Gray   2022 36300
+175. Honda         Pilot      Blue   2022 37200
+176. Honda         Pilot      Red    2022 37000
+
+177. Volkswagen    Golf       White  2014 28000
+178. Volkswagen    Golf       Black  2014 29000
+179. Volkswagen    Golf       Silver 2014 28500
+180. Volkswagen    Golf       Gray   2014 28300
+181. Volkswagen    Golf       Blue   2014 29200
+182. Volkswagen    Golf       Red    2014 29000
+
+183. Volkswagen    Jetta      White  2014 26000
+184. Volkswagen    Jetta      Black  2014 27000
+185. Volkswagen    Jetta      Silver 2014 26500
+186. Volkswagen    Jetta      Gray   2014 26300
+187. Volkswagen    Jetta      Blue   2014 27200
+188. Volkswagen    Jetta      Red    2014 27000
+
+189. Volkswagen    Amarok     White  2024 40000
+190. Volkswagen    Amarok     Black  2024 41000
+191. Volkswagen    Amarok     Silver 2024 40500
+192. Volkswagen    Amarok     Gray   2024 40300
+193. Volkswagen    Amarok     Blue   2024 41200
+194. Volkswagen    Amarok     Red    2024 42000
+
+195.  Volkswagen   Passat     White  2017 35000
+196.  Volkswagen   Passat     Black  2017 36000
+197. Volkswagen    Passat     Silver 2017 35500
+198.  Volkswagen   Passat     Gray   2017 35300
+199. Volkswagen    Passat     Blue   2017 36200
+200.  Volkswagen   Passat     Red    2017 36000
+
+
